@@ -2,10 +2,6 @@
 
 In this project you are given the skeleton/structure/styling of a React app. There is even some state built in for you. Your job will be to implement React-Redux as the state management system for this application.
 
-## Commits
-
-Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
-
 ## Description
 
 In this project you will implement Redux to manage the state for this React application.
